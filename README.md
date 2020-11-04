@@ -132,5 +132,5 @@ update <Class> <id> <attribute name> "<attribute value>"
 
 [Santiago Mendieta](1494@holbertonschool.com)
 
-##License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
