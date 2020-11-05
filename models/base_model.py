@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for BaseClass for HBnB."""
+"""Module created for BaseClass for HBnB."""
 import uuid
 from datetime import datetime
 import models
