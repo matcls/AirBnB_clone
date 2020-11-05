@@ -1,6 +1,6 @@
 # AirBnB clone - The console
 
-In the first part of the AirBnB clone project, in which we implemented the console we use for data management (creating, saving, loading and updating objects) in a JSON file using serialization/deserialization.
+In the first part of the AirBnB clone project, we have implemented the console we use for data management (creating, saving, loading and updating objects) in a JSON file using serialization/deserialization.
 
 ## The Console
 
